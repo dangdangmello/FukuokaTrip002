@@ -1,0 +1,17 @@
+{
+  "name": "福岡旅遊 2026",
+  "short_name": "福岡2026",
+  "description": "2026 福岡旅遊規劃助手",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/826/826070.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

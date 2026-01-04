@@ -1,0 +1,7 @@
+{
+  "name": "Fukuoka Travel Log 2026",
+  "description": "A high-end travel planning application specifically designed for a trip to Fukuoka in 2026. Features include interactive itineraries, drag-and-drop sorting, AI-powered travel tips, and shopping lists.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
